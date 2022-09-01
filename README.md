@@ -9,6 +9,7 @@
 ## Amazon's Advertising API
 
 A python 3 wrapper to access Amazon's Advertising API with an easy-to-use interface.
+Add Report V3 
 
 ### Install
 
